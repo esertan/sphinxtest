@@ -12,6 +12,6 @@ Contents:
    :maxdepth: 2
 
    doc/intro.rst
-
+   doc/stuff.rst
 
 
