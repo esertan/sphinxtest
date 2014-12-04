@@ -13,5 +13,5 @@ Contents:
 
    doc/intro.rst
    doc/stuff.rst
-
+   doc/list.rst
 
